@@ -4,5 +4,5 @@ const countries ={
     CL: 'chile',
     PE: 'peru'
 };
-console.log(Object.entries(countries))
-//obtener tanto el valor como el elemento
+console.log(Object.values(countries))
+//obtener los valores 
