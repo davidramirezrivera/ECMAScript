@@ -13,5 +13,8 @@
   ],
   "author": "David Ramirez <davidramirezrivera2511@gmail.com>",
   "license": "MIT",
-  "type": "module"
+  "type": "module",
+  "dependencies": {
+    "node-fetch": "^3.2.10"
+  }
 }
