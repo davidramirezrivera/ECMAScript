@@ -12,5 +12,6 @@
     "javascript"
   ],
   "author": "David Ramirez <davidramirezrivera2511@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "type": "module"
 }
